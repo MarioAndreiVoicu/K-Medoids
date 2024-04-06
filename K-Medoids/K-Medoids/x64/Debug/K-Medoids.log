@@ -1,0 +1,9 @@
+﻿  K-Medoids.cpp
+E:\Visual Studio\Projects\K-Medoids\K-Medoids\K-Medoids.cpp(46,68): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Visual Studio\Projects\K-Medoids\K-Medoids\K-Medoids.cpp(49,68): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Visual Studio\Projects\K-Medoids\K-Medoids\K-Medoids.cpp(136,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\Visual Studio\Projects\K-Medoids\K-Medoids\K-Medoids.cpp(142,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\Visual Studio\Projects\K-Medoids\K-Medoids\K-Medoids.cpp(152,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  RandomDataGenerator.cpp
+  Generating Code...
+  K-Medoids.vcxproj -> E:\Visual Studio\Projects\K-Medoids\x64\Debug\K-Medoids.exe
